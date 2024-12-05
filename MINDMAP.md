@@ -79,8 +79,17 @@
 
 ## Setup
 
-### HTTP server (static)
+### componenten
 
-### PHP Server (dynamic)
+- HTTP server (static)
+- PHP processor (dynamic)
+- phpMyAdmin
+- DB server
 
-### DB server
+### docker
+
+- compose
+- logs
+- bind mounts
+- exec
+- files
