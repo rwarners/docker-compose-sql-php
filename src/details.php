@@ -9,8 +9,6 @@
 </head>
 
 <body>
-
   <?php
-  $conn = require_once "partials/dbconnection.php";
-
   echo var_dump($_GET);
+  echo var_dump($_POST);
