@@ -13,7 +13,7 @@ Dit mag je ook doen via je git client zaols gitKraken,sourceTree of github deskt
 
 (of als clonen echt niet lukt.. download de .zip en pak hem ergens uit: https://github.com/rwarners/docker-compose-sql-php/archive/refs/heads/main.zip)
 
-# Start docker containers
+# Start docker containers (terminal)
 
 Open nu een terminal. De terminal is een manier om commando's van je computer uit te voeren en daarmee programma's te starten. Heel vroeger waren alle computers alleen te gebruiken via een terminal. Voor mac- en linux gebruikers moet het met de naam ‘terminal’ te vinden zijn, voor windows gebruikers moet je zoeken naar de applicatie ‘cmd’.
 
@@ -32,7 +32,7 @@ Het hangt een beetje af van welk systeem je gebruikt, maar het kan zijn dat je t
 
 Met bovenstaand commando start je nu elke keer de containers.
 
-## containers individueel starten via command line (terminal)
+## Optioneel: containers individueel starten via command line (terminal)
 
 Dit is niet perse nodig, want je kunt met "docker compose up" commando de containers starten als dat nodig is. Maar op deze manier kan je via de command line ook individueel containers starten.
 
@@ -58,6 +58,8 @@ docker stop container_name
 ```
 
 In het commando moet je container_name nog wel verplaatsen met de naam van de container, in ons geval docker-php-1 en/of docker_mysql_1
+
+# Start docker containers (docker app)
 
 Je kan ook de containers stopen starten en bekijken vie de docker app:
 ![docker app](docs/docker_containers.png "docker app")

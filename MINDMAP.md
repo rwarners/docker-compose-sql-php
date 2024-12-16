@@ -93,3 +93,11 @@
 - bind mounts
 - exec
 - files
+
+## project
+
+- user stories
+- wat is het doel: prototype?
+- wireframes
+- taken plannen
+- git commits
