@@ -22,7 +22,7 @@ Ga in je terminal naar de plek waar de reposoitry is gecloned. Gebruik de comman
 Als je in de map bent waar je moet zijn moet je het volgende commando uitvoeren:
 
 ```
-docker-compose up
+docker compose up
 ```
 
 Het kan zijn dat je Docker compose nog moet installeren als je Linux gebruikt.
