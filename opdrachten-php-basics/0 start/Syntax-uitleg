@@ -16,3 +16,4 @@ PHP is een eenvoudige programmeertaal die we gebruiken om websites interactief t
     Zorg ervoor dat je PHP-code altijd tussen deze tags plaatst. Code buiten deze tags wordt niet uitgevoerd.
 
     PHP-code gebruiken: Binnen de PHP-tags kun je allerlei PHP-code schrijven. Onthoud dat de code buiten de tags niet werkt. 
+    Controleer of het bestand eindigt op .php, php code wordt alleen uitgevoerd als het bestand eindigt op .php
